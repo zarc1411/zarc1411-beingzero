@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zarc1411/zarc1411-beingzero/issues"
   },
-  "homepage": "https://github.com/zarc1411/zarc1411-beingzero#readme"
+  "homepage": "https://github.com/zarc1411/zarc1411-beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
