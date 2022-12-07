@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/zarc1411/zarc1411-beingzero#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
